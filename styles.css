@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+h1{
+	text-color:green;
+}
+ol{
+	text-color:orange;
+}
+ul{
+	text-emphasis-color:blue;
+	background-color:yellow;
+}
+p{
+	text-orientation:pink;
+}
+}
+}
+}
